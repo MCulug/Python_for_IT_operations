@@ -1,0 +1,12 @@
+- NAME: server1
+  hostname: server1.com
+  ipaddr: 10.87.49.74
+- NAME: server2
+  hostname: asdasdasd.com
+  ipaddr: 55.55.55.11111
+- NAME: klpdr01
+  hostname: 10.87.49.74
+  ipaddr: weqrqwer
+- NAME: klpdr03
+  hostname: asd
+  ipaddr: asd
