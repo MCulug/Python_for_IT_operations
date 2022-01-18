@@ -57,7 +57,7 @@ def start(indexnumber):
   payload = KBresult.split('col-md-8">')[1]
   payload2 = payload.split('<div class="panel-footer">')[0]
   author = payload.split('col-md-4">')[1]
-  author2 = author.split('(Ibtech-Inf Application Infrastructure)')[0]
+  author2 = author.split('(split this part)')[0]
   author = author2.split('<div>')[2]
   Appendtext = ""
   Appendtext2 = ""
